@@ -1,3 +1,5 @@
+Notion | https://www.notion.so/CV-1c35e56ca4748031a463c5400bf620f3?source=copy_link
+
 ![슬라이드1](https://github.com/user-attachments/assets/9a135944-b4d5-4679-ba91-5840e794053e)
 ![슬라이드2](https://github.com/user-attachments/assets/b1d0f039-ba71-4b2d-910f-bf8438748510)
 ![슬라이드3](https://github.com/user-attachments/assets/4f2b37d6-45a1-47f8-8787-f25af77777fa)
