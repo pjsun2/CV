@@ -1,0 +1,5 @@
+{
+  "Interpreter": "Global|PythonCore|3.12",
+  "SuppressConfigureTestFrameworkPrompt": "true",
+  "TestFramework": "Pytest"
+}
